@@ -1,2 +1,2 @@
-As a DevOps engineer you must be familar with the Software Development Cycle
-Its important because your company will follow the steps of making source code, testing it, debuging for erros and deploying it
+A DevOps engineer needs to be familar with the Software Development Cycle
+The engineer will need to use the steps of writing, testing, debuging and deploying code
